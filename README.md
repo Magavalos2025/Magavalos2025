@@ -10,9 +10,11 @@
 <p> Los pasos a seguir son:</p>
 <p> 1. Abrir el link del sitio</p>
 <p> 2. Escribir los nombres de a uno a la vez. Click en "añadir"</p>
-<p> 3. Una vez agregados todos los nombres, click en "Sortear"</p>
+<img src="https://github.com/user-attachments/assets/b2b309a9-0c09-45ce-8351-c74fea11d969" width="300"> 
+<p> 3. Una vez agregados todos los nombres, click en "Sortear amigo"</p>
+<img src="https://github.com/user-attachments/assets/203d9eb3-2506-4bfe-90e2-d0419e36198e" width="300"> 
 <p> 4. ¡Recibiras el nombre seleccionado aleatoriamente! </p>
-![Amigo secreto resultado](https://github.com/user-attachments/assets/21b28b57-214a-4805-93af-04735e813678)
+<img src="https://github.com/user-attachments/assets/21b28b57-214a-4805-93af-04735e813678" width="300"> 
 
 <h2> Tecnologías Utilizadas 📎</h2>
 <p> ⚙️HTML </p>
@@ -21,6 +23,8 @@
 <p>⚙️Git y GitHub </p>
 
 <h2> Personas Desarrolladoras del Proyecto 👩🏻💻</h2>
+<img src="https://github.com/user-attachments/assets/55bd1cfe-ac99-4df8-82aa-7d03e0f711fa" width="100"> 
+
 <p>El proyecto fue desarrollado y modificado por <a href="https://github.com/Magavalos2025"> Magali Avalos </a></strong>, con el HTML y el CSS  creados por [Alura Latam] (https://www.aluracursos.com/) como parte de su curso. 
-<p>[Magali Avalos](https://github.com/user-attachments/assets/55bd1cfe-ac99-4df8-82aa-7d03e0f711fa)
+
  </p>
