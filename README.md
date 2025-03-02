@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Magali. People can call me Maga.
+- 👀 I’m interested in learning new things anytime I could
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on programming projects
+- 🫶 I love my country, mi family, my friends, education and travelling✈️
+- 😄 I am a teacher of English (I love being bilingual)
+- ⚡ Fun fact: I enjoy dancing all types of music. I'm a kinda nerd of song lyrics
+- 🥳 I would love to share all my projects here with you
